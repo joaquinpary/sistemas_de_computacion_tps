@@ -19,7 +19,7 @@ static void func2(void)
     printf("\n Inside func2 \n");
     int i = 0;
 
-    for(;i<0xafffffff;i++);
+    for(;i<0xffffffaa;i++);
     return;
 }
 
@@ -28,7 +28,7 @@ int main(void)
     printf("\n Inside main()\n");
     int i = 0;
 
-    for(;i<0xfffff11;i++);
+    for(;i<0xffffff;i++);
     func1();
     func2();
 

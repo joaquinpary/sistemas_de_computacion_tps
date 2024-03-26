@@ -1,5 +1,5 @@
 ## Como usar
-* Para compilar y ejecutar usar el archivo:
+* Para compilar y ejecutar, usar el archivo:
 
 ./executable
 

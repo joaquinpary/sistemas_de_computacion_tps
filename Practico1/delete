@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf executable.sh gmon.out analysis.txt perf.data perf.data.old
+rm -rf test_gprof executable.sh gmon.out analysis.txt perf.data perf.data.old
